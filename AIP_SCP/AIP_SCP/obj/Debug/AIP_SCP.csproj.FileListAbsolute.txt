@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.exe.config
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.exe
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.pdb
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.Properties.Resources.resources
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.GenerateResource.cache
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.exe
+D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.pdb
