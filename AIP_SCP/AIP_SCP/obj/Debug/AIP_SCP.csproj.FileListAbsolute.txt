@@ -1,9 +1,11 @@
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.exe.config
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.exe
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.pdb
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.AssemblyReference.cache
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.Properties.Resources.resources
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.GenerateResource.cache
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.CoreCompileInputs.cache
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.exe
-D:\Visual Studio Projects\ACA_EMO\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.pdb
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.exe.config
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.exe
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\bin\Debug\AIP_SCP.pdb
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.AssemblyReference.cache
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.Form1.resources
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.Properties.Resources.resources
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.VIEW.Form_User.resources
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.GenerateResource.cache
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.csproj.CoreCompileInputs.cache
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.exe
+C:\Users\mcordoba\source\repos\AIP_SCP\AIP_SCP\obj\Debug\AIP_SCP.pdb
